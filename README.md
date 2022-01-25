@@ -23,7 +23,7 @@
 - detective-game (scratch)
 - light control (python)
 
-## materials
+## materials i use for learning
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ (js)
 - https://getmimo.com/ (html, css, sql)
 - https://codewithmosh.com/ (python)
