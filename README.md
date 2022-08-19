@@ -14,7 +14,7 @@
 - @eglootz (Twitter)
 - @eglootz (Instagram)
 - @eglootz (GitHub)
-- @eglootz (Discord)
+- @eglootz#5735 (Discord)
 - @eglootz (pretty much everywhere)
 - @eliasglootz (scratch)
 
