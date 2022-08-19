@@ -1,7 +1,7 @@
 # @eglootz -GitHub
 
 ## about me
-- 15 and student at wvsg md
+- 16 and student at wvsg md
 - doing programming stuff in my free time
 
 ## what i can or can't do (yet)
