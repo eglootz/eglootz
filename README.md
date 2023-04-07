@@ -8,7 +8,7 @@
 - python
 - html and css basics
 - currently looking into javascript
-- c++ and delphi/pascal (for school)
+- c++ basics and delphi/pascal (for school)
 
 ## socials
 - @eglootz (Twitter)
